@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "online.jad.fuodzvendor"
+    name: "Jad Vendor"
+  ios:
+    id: "online.jad.fuodzvendor"
+    name: "Jad Vendor"
