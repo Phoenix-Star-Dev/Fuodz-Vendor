@@ -115,11 +115,6 @@ dependency_overrides:
       ref: main
   file_picker: ^10.1.2
   firebase_core: ^3.5.0
-  flutter_inappwebview_ios:
-    git:
-      url: https://github.com/andychucs/flutter_inappwebview.git
-      ref: master
-      path: flutter_inappwebview_ios
   flutter_widget_from_html_core: ^0.15.2
   http: ^0.13.0
   intl: ^0.18.1
